@@ -1,4 +1,4 @@
-# FloodWatch-AI 🌊
+# FloodWatch-AI 
 
 FloodWatch-AI is a project designed to detect water bodies and forecast potential flood risks using satellite imagery and AI.
 
