@@ -3,7 +3,7 @@ import cv2
 def detect_water(image_path):
     image = cv2.imread(image_path)
     if image is None:
-        print("❌ Image not found.")
+        print("Image not found.")
         return
 
     hsv = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
